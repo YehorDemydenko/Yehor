@@ -61,6 +61,6 @@ section{
 }
 .glyphround{
     position: relative;
-    top: 10px;
-    left: 10px;
+    top: -50px;
+    left: 25px;
 }
